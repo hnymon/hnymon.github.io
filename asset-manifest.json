@@ -1,29 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.66cf219f.css",
-    "main.js": "/static/js/main.d84231b4.js",
-    "static/media/main_1.png": "/static/media/main_1.a513e1d6dc98ab0daa76.png",
-    "static/media/graph.png": "/static/media/graph.6f2f3b181234656b4650.png",
-    "static/media/main_2.png": "/static/media/main_2.02040b76380263ec1cc6.png",
-    "static/media/main_5.png": "/static/media/main_5.7c4d8f243809e69b3378.png",
-    "static/media/main_6.png": "/static/media/main_6.ab170fa7bb4e5d999e42.png",
-    "static/media/main_7.png": "/static/media/main_7.11669d94177c1a950040.png",
-    "static/media/main_last.jpg": "/static/media/main_last.cae8106a57bd25db0fee.jpg",
-    "static/media/main_4.png": "/static/media/main_4.61d7e218129b813c5757.png",
-    "static/media/main_3.png": "/static/media/main_3.42096d1110d4076325f1.png",
-    "static/media/popup.png": "/static/media/popup.f5477c1a7dcd95177805.png",
+    "main.css": "/static/css/main.26d90f75.css",
+    "main.js": "/static/js/main.21d6fa9c.js",
+    "static/media/main_1.png": "/static/media/main_1.15c4d27b730f21f02768.png",
+    "static/media/graph.png": "/static/media/graph.d111080ee31b70512827.png",
+    "static/media/main_last.jpg": "/static/media/main_last.77501a744558c04b2d68.jpg",
+    "static/media/main_2.png": "/static/media/main_2.8f88610051539c72daee.png",
+    "static/media/main_5.png": "/static/media/main_5.099cb5e4a9344840fa92.png",
+    "static/media/main_7.png": "/static/media/main_7.74d48ddd7e1b2cd5b417.png",
+    "static/media/main_4.png": "/static/media/main_4.2f465365c6d6dc29bdac.png",
+    "static/media/main_6.png": "/static/media/main_6.a2229f5f1c364e0e535a.png",
+    "static/media/main_3.png": "/static/media/main_3.ca36fbe8dd1509ff0ba4.png",
+    "static/media/popup.png": "/static/media/popup.567024cea1aa88e76718.png",
     "static/media/nucleo-outline.eot": "/static/media/nucleo-outline.56814a6b7240045e1494.eot",
     "static/media/nucleo-outline.ttf": "/static/media/nucleo-outline.1102ed9b2d16dccdec05.ttf",
-    "static/media/kakaotalk_logo.png": "/static/media/kakaotalk_logo.64e7d8599907cb02d884.png",
     "static/media/nucleo-outline.woff": "/static/media/nucleo-outline.1a1036e643f97457ec5f.woff",
     "static/media/nucleo-outline.woff2": "/static/media/nucleo-outline.802141dd0dcc63b21cbb.woff2",
-    "static/media/btn_2.png": "/static/media/btn_2.fbf4cb205aaedb5ad8d4.png",
-    "static/media/naver_logo.png": "/static/media/naver_logo.ba3d5de52994ed38983c.png",
     "static/media/logo-rm_bg_white.png": "/static/media/logo-rm_bg_white.87527d8ec6c6bc8a2c94.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.66cf219f.css",
-    "static/js/main.d84231b4.js"
+    "static/css/main.26d90f75.css",
+    "static/js/main.21d6fa9c.js"
   ]
 }
